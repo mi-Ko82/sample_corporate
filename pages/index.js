@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import "the-new-css-reset/css/reset.css"
 
 const siteName = '明るいHOUSE';
 
