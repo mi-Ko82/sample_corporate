@@ -1,0 +1,13 @@
+@import '../node_modules/destyle.css/destyle.min.css';
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.4;
+  -webkit-overflow-scrolling: touch;
+  min-width: 320px;
+}

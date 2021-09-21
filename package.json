@@ -13,6 +13,7 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
+    "destyle.css": "^3.0.0",
     "sass": "^1.41.1"
   }
 }
