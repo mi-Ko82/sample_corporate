@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteName}</title>
         <meta name="description" content={siteName + 'のホームページです'} />
         <meta name="format-detection" content="telephone=no" />
-        <meta property="og:site_name" content="{siteName}" />
+        <meta property="og:site_name" content={siteName} />
         <meta property="og:url" content="" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content={siteName} />
